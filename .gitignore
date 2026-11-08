@@ -1,0 +1,18 @@
+# 编译产物
+*.class
+out/
+build/
+bin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# 本地产物
+in.txt
+*.log
+.DS_Store
